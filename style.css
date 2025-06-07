@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+header {
+    padding: 20px;
+    background-image: linear-gradient(to right,lightblue,white,lightblue);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    border-bottom: 3px dotted grey;
+    text-align: center;
+}
+
+aside {
+    border: 4px solid darkblue;
+    position: fixed;
+    right: 0px;
+    top: 60px;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: blueviolet;
+}
+
+h2 {
+    color: orangered;
+}
+
+footer {
+    border-top: 3px solid lawngreen;
+    padding: 30px;
+}
+
+img {
+    width: 70px;
+}
+
+
